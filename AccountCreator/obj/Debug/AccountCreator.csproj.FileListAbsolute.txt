@@ -1,0 +1,11 @@
+c:\users\str8\documents\visual studio 2013\Projects\AccountCreator\AccountCreator\bin\Debug\AccountCreator.exe.config
+c:\users\str8\documents\visual studio 2013\Projects\AccountCreator\AccountCreator\bin\Debug\AccountCreator.exe
+c:\users\str8\documents\visual studio 2013\Projects\AccountCreator\AccountCreator\bin\Debug\AccountCreator.pdb
+c:\users\str8\documents\visual studio 2013\Projects\AccountCreator\AccountCreator\obj\Debug\AccountCreator.Form1.resources
+c:\users\str8\documents\visual studio 2013\Projects\AccountCreator\AccountCreator\obj\Debug\AccountCreator.Properties.Resources.resources
+c:\users\str8\documents\visual studio 2013\Projects\AccountCreator\AccountCreator\obj\Debug\AccountCreator.csproj.GenerateResource.Cache
+c:\users\str8\documents\visual studio 2013\Projects\AccountCreator\AccountCreator\obj\Debug\AccountCreator.exe
+c:\users\str8\documents\visual studio 2013\Projects\AccountCreator\AccountCreator\obj\Debug\AccountCreator.pdb
+c:\users\str8\documents\visual studio 2013\Projects\AccountCreator\AccountCreator\bin\Debug\HtmlAgilityPack.dll
+c:\users\str8\documents\visual studio 2013\Projects\AccountCreator\AccountCreator\bin\Debug\HtmlAgilityPack.pdb
+c:\users\str8\documents\visual studio 2013\Projects\AccountCreator\AccountCreator\bin\Debug\HtmlAgilityPack.xml

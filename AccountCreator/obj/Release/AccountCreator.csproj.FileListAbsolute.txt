@@ -1,0 +1,11 @@
+C:\Users\str8\Documents\Visual Studio 2013\Projects\AccountCreator\AccountCreator\bin\Release\AccountCreator.exe.config
+C:\Users\str8\Documents\Visual Studio 2013\Projects\AccountCreator\AccountCreator\bin\Release\AccountCreator.exe
+C:\Users\str8\Documents\Visual Studio 2013\Projects\AccountCreator\AccountCreator\bin\Release\AccountCreator.pdb
+C:\Users\str8\Documents\Visual Studio 2013\Projects\AccountCreator\AccountCreator\bin\Release\HtmlAgilityPack.dll
+C:\Users\str8\Documents\Visual Studio 2013\Projects\AccountCreator\AccountCreator\bin\Release\HtmlAgilityPack.pdb
+C:\Users\str8\Documents\Visual Studio 2013\Projects\AccountCreator\AccountCreator\bin\Release\HtmlAgilityPack.xml
+C:\Users\str8\Documents\Visual Studio 2013\Projects\AccountCreator\AccountCreator\obj\Release\AccountCreator.Form1.resources
+C:\Users\str8\Documents\Visual Studio 2013\Projects\AccountCreator\AccountCreator\obj\Release\AccountCreator.Properties.Resources.resources
+C:\Users\str8\Documents\Visual Studio 2013\Projects\AccountCreator\AccountCreator\obj\Release\AccountCreator.csproj.GenerateResource.Cache
+C:\Users\str8\Documents\Visual Studio 2013\Projects\AccountCreator\AccountCreator\obj\Release\AccountCreator.exe
+C:\Users\str8\Documents\Visual Studio 2013\Projects\AccountCreator\AccountCreator\obj\Release\AccountCreator.pdb
